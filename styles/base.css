@@ -13,5 +13,19 @@
     margin: 0 auto;
 }
 body{
-    font-family: 'Comfortaa-Regular' , sans-serif;
+    font-family: 'CR' , sans-serif;
+    font-weight: 400;
+    background: var(--bg);
+}
+:root{
+    --white: #fff;
+    --grey: #C8C8C8;
+    --bg: #040D1F;
+    --orange: #F18128;
+    --lightOrange: #ED8E00;
+    --RR: 'RR' ,sans-serif ;
+    --CB: 'CB' ,sans-serif ;
+    --CR : 'CR' ,sans-serif ;
+    --MB: 'MB' ,sans-serif ;
+    --MR: 'MR' ,sans-serif ;
 }
